@@ -23,7 +23,7 @@
  
 <div align="center">
   
-  ## Este repositório foi desenvolvido para a pratica e aprendizado das tecnologias listadas no Challenge desta sprint. Todos os exercicios feitos podem ser acessados abaixo, cada exercicio apresenta um solução comentada para facilitiar o entendimento.
+  ## Este repositório foi desenvolvido para a pratica e aprendizado das tecnologias listadas no Challenge desta sprint. Todos os exercicios feitos podem ser acessados abaixo, cada exercicio apresenta uma solução comentada para facilitiar o entendimento.
   
  </div>
  
@@ -89,16 +89,15 @@ Atividade | Data | Ajuda | Observações|
 
 
 ```python
-#Construa um programa que armazena em duas variaveis duas notas e apresenta a média entre
-def media(a,b):
-  media = a + b / 2
-  return 'A media entre as duas notas é: {}'.format(media);
+# Atividade 1 - Construa um programa que quando executado mostra "Hello World".
 
-nota1 = float(input('Informa a primeira nota: '));
-nota2 = float(input('Informe a segunda nota : '));
+#função hello que retorna "Hello World"
+def hello():
+  return "Hello Wolrd!"
 
-print(media(nota1, nota2));
-
+#chamada da função
+hello()
+   
 
 
 ```
@@ -108,13 +107,22 @@ print(media(nota1, nota2));
 <strong>Windows</strong>
 - Se o Python já esta nas variáveis de ambiente executar este comando no seu prompt do Windows: "python -m pip install -U nome_pacote"
 - Caso contrário: "<pasta_onde_esta_instalado>\python.exe -m pip install -U nome_pacote"
+![image](https://user-images.githubusercontent.com/105370199/175935022-4e8c66c8-4cb9-41da-90c6-aeef33f1851f.png)
+
 
 <strong>Linux</strong>
 
 - No terminal digite o comando: "sudo apt install pip"
+![image](https://user-images.githubusercontent.com/105370199/175934831-c505454c-70c2-40b7-993d-ce1434302cda.png)
+
 
 <strong>Instalação das dependências via pip</strong>
 
 -Digite no seu prompt ou terminal ou comando: "pip install <nome_da_dependência>"
+<div> 
+   <img src="https://user-images.githubusercontent.com/105370199/175936606-0550bd33-f8d2-47d9-8604-2a5421c56c01.gif" width="200px" />
+</div>
+
+
 
 <strong>Dependências utilizadas</strong>
