@@ -2,8 +2,8 @@
 
 #função para calcular a média
 def media(a,b):
-  media = a + b / 2
-  return 'A media entre as duas notas é: {}'.format(media);
+  media = (a + b) / 2
+  return f'A media entre as duas notas é: {media}';
 
 #variáves para receber as notas
 nota1 = float(input('Informa a primeira nota: '));
