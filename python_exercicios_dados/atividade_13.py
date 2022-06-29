@@ -8,7 +8,7 @@ df = pd.read_csv('/workspace/Compass_NeyBackes_Robot/python_exercicios_dados/arq
 
 
 #criando uma nova coluna e concatenando com as informações de Movie e Year
-df["Execution Time"] = df["Movie"] + str(df["Year"])
+df["Execution Time"] = df["Movie"] + df["Year"].apply(str)
 
 
 print(df)
