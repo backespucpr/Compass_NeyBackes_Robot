@@ -11,5 +11,5 @@ def media(a,b):
 valor1 = float(input('Informa o primeiro valor: '));
 valor2 = float(input('Informe o segundo valor: '));
 
-#imprimtir o resultado utilizando a função media
+#imprimir o resultado utilizando a função media
 print(media(valor1, valor2));

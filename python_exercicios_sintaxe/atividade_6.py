@@ -3,12 +3,12 @@
 
 
 #função que recebe o valor digitiado maior de 2
-def informe_valor():
+def informeValor():
   valor = int(input('Informe um valor maior que 2? '));
-  return recebe_valor(valor);
+  return recebeValor(valor);
 
-#funçao que verifica o valor e informa os valores pares de o ao valor X 
-def recebe_valor(valor):
+#funçao que verifica o valor e informa os valores pares de 0 ao valor X 
+def recebeValor(valor):
   valores = []
   for i in range(1, valor):
     if i % 2 == 1:
@@ -17,4 +17,4 @@ def recebe_valor(valor):
 
 
 #chamada da função que inicia o programa
-print(informe_valor())
+print(informeValor())
