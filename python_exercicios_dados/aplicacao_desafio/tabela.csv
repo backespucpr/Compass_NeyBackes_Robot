@@ -1,0 +1,15 @@
+Simbolo,Nome,NumeroAtomico,Linha,Coluna,EstadoFisico
+Cr,Cromio,24,4,6,Solido
+Sc,Escândio,21,4,6,Sólido
+Li,Lítio,3,2,1,Sólido
+Mn,Mangânes,25,4,7,Solido
+Db,Dúbnio,105,7,4,Desconhecido
+Hs,Hassio,108,7,8,Desconhecido
+Hg,Mercurio,80,6,12,Liquido
+Br,Bromo,35,4,17,Liquido
+Hi,Hidrogénio,1,1,	1,Gás
+N,Azoto,7,2,15,Gás
+Kr,Crípton,36,4,18,Gás
+Xe,Xenônio,54,5,18,Gás
+Rn,Rádon,86,6,18,Gás
+Ci,Cloro,17,3,17,Gás
