@@ -50,7 +50,7 @@ Atividade | Data | Ajuda | Observações
 [python_exercicios_sintaxe](https://github.com/backespucpr/Compass_NeyBackes_Robot/tree/DEVELOP/python_exercicios_sintaxe "Vazio") | -- | -- | -- |
 [python_exercicios_sintaxe](https://github.com/backespucpr/Compass_NeyBackes_Robot/tree/DEVELOP/python_exercicios_sintaxe "Vazio") | -- | -- | -- |
 [python_exercicios_sintaxe](https://github.com/backespucpr/Compass_NeyBackes_Robot/tree/DEVELOP/python_exercicios_sintaxe "Vazio") | -- | -- | -- |
-[python_exercicios_sintaxe](https://github.com/backespucpr/Compass_NeyBackes_Robot/tree/DEVELOP/python_exercicios_sintaxe "Vazio") | -- | -- | -- |
+
   
   
 </td><td>
