@@ -35,35 +35,45 @@
 
 Atividade | Data | Ajuda | Observações
 ---- | ---- | ---- | ----
-[Atividade 1](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_1.py "Atividade 1") | 24/06 | Não | Utilizado uma função básica para retorna o valor |
-[Atividade 2](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_2.py "Atividade 2") | 24/06 | Não | Referências ou link para conteúdo |
-[Atividade 3](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_3.py "Atividade 3") | 24/06 | Não | Referências ou link para conteúdo |
-[Atividade 4](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_4.py "Atividade 4") | 24/06 | Não | Referências ou link para conteúdo |
-[Atividade 5](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_1.py "Atividade 1") | 24/06 | Não | Referências ou link para conteúdo |
-[Atividade 6](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_1.py "Atividade 1") | 24/06 | Não | Referências ou link para conteúdo |
-[Atividade 7](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_1.py "Atividade 1") | 24/06 | Não | Referências ou link para conteúdo |
-[Atividade 8](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_1.py "Atividade 1") | 24/06 | Não | Referências ou link para conteúdo |
-[Atividade 9](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_1.py "Atividade 1") | 24/06 | Não | Referências ou link para conteúdo | 
-[Atividade 10](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_1.py "Atividade 1") | 24/06 | Não | Referências ou link para conteúdo | 
-[Atividade 11](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_1.py "Atividade 1") | 24/06 | Não | Referências ou link para conteúdo | 
-[Atividade 12](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_1.py "Atividade 1") | 24/06 | Não | Referências ou link para conteúdo |  
+[Atividade 1](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_1.py "Atividade 1") | 28/06 | Não | Utilizado uma função básica para retornar o valor |
+[Atividade 2](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_2.py "Atividade 2") | 28/06 | Não | Função méida simples para retornar o valor |
+[Atividade 3](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_3.py "Atividade 3") | 28/06 | Não | Função simples para verificar se valor é impar ou par |
+[Atividade 4](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_4.py "Atividade 4") | 28/06 | Não | Função para verificar idade|
+[Atividade 5](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_5.py "Atividade 5") | 28/06 | Não | Duas funções criadas, uma para receber os valores e outra para <br>indentificar os valores pares e trazer a média|
+[Atividade 6](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_6.py "Atividade 6") | 28/06 | Não | Duas funções criadas, uma para coletar o valor do usuário e <br>outra para receber este valor e trazer os pares entre o 0 e o valor |
+[Atividade 7](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_7.py "Atividade 7") | 28/06 | Não |Funçaõ reutilizada da atividade 2 |
+[Atividade 8](https://github.com/backespucpr/Compass_NeyBackes_Robot/tree/DEVELOP/python_exercicios_sintaxe "Atividade 8") | 24/06 | Sim |[Calcultar Fatorial](https://www.pythonprogressivo.net/2018/05/Calcular-Fatorial-Python-FOR-WHILE.html "Calcular Fatorial") |
+[Atividade 9](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_9.py "Atividade 9") | 28/06 | Não | Utilizado um for para coletar os valores | 
+[Atividade 10](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_10.py "Atividade 10") | 29/06 | Não | Respotar para comparar valores e verificar se existem valores iguais ou não | 
+[Atividade 11](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_11.py "Atividade 11") | 29/06 | Sim |Tive problemas para rodar o meu código no começo, encontrei uma referência em java.<br> Tinha esquecido de consdierar o dia 24 horas no cálculos. <br> [Créditos Eduardo-Maior](https://github.com/eduardo-mior/URI-Online-Judge-Solutions/blob/master/Iniciante/URI%201046.java "solucao java") | 
+[Atividade 12](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_12.py "Atividade 12") | 29/06 | Não |Solução simples utilizando diviões inteiras e resto |
+[python_exercicios_sintaxe](https://github.com/backespucpr/Compass_NeyBackes_Robot/tree/DEVELOP/python_exercicios_sintaxe "Vazio") | -- | -- | -- |
+[python_exercicios_sintaxe](https://github.com/backespucpr/Compass_NeyBackes_Robot/tree/DEVELOP/python_exercicios_sintaxe "Vazio") | -- | -- | -- |
+[python_exercicios_sintaxe](https://github.com/backespucpr/Compass_NeyBackes_Robot/tree/DEVELOP/python_exercicios_sintaxe "Vazio") | -- | -- | -- |
+[python_exercicios_sintaxe](https://github.com/backespucpr/Compass_NeyBackes_Robot/tree/DEVELOP/python_exercicios_sintaxe "Vazio") | -- | -- | -- |
+  
   
 </td><td>
 
 Atividade | Data | Ajuda | Observações|
 ---- | ---- | ---- | ----|
-[Atividade 1](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_1.py "Atividade 1") | 24/06 | Não | Referências ou link para conteúdo |
-[Atividade 2](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_1.py "Atividade 1") | 24/06 | Não | Referências ou link para conteúdo |
-[Atividade 3](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_1.py "Atividade 1") | 24/06 | Não | Referências ou link para conteúdo |
-[Atividade 4](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_1.py "Atividade 1") | 24/06 | Não | Referências ou link para conteúdo |
-[Atividade 5](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_1.py "Atividade 1") | 24/06 | Não | Referências ou link para conteúdo |
-[Atividade 6](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_1.py "Atividade 1") | 24/06 | Não | Referências ou link para conteúdo |
-[Atividade 7](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_1.py "Atividade 1") | 24/06 | Não | Referências ou link para conteúdo |
-[Atividade 8](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_1.py "Atividade 1") | 24/06 | Não | Referências ou link para conteúdo |
-[Atividade 9](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_1.py "Atividade 1") | 24/06 | Não | Referências ou link para conteúdo | 
-[Atividade 10](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_1.py "Atividade 1") | 24/06 | Não | Referências ou link para conteúdo | 
-[Atividade 11](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_1.py "Atividade 1") | 24/06 | Não | Referências ou link para conteúdo | 
-[Atividade 12](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_sintaxe/atividade_1.py "Atividade 1") | 24/06 | Não | Referências ou link para conteúdo |  
+[Atividade 1](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_dados/atividade_1.py "Atividade 1") | 29/06 | Não | Utilizado as bibliotecas Json e Pprint |
+[Atividade 2](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_dados/atividade_2.py "Atividade 2") | 29/06 | Não | Utilizado as bibliotecas Json e Pprint |
+[Atividade 3](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_dados/atividade_3.py "Atividade 3") | 29/06 | Não |Utilizado as bibliotecas Json e Pprint. Resposta salva em uma dicionário |
+[Atividade 4](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_dados/atividade_4.py "Atividade 4") | 29/06 | Não |Utilizado as bibliotecas Json e Pprint |
+[Atividade 5](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_dados/atividade_5.py "Atividade 5") | 30/06 | Não | Utilizado as bibliotecas Json e Pprint |
+[Atividade 6](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_dados/atividade_6.py "Atividade 6") | 30/06 | Não | Utilizado as bibliotecas Json e Pprint |
+[Atividade 7](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_dados/atividade_7.py "Atividade 7") | 30/06 | Não | Utilizado as bibliotecas Json e Pprint.<br> Laço for utilizado para imprimir as chaves |
+[Atividade 8](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_dados/atividade_8.py "Atividade 8") | 30/06 | Não | Utilizado a biblioteca Pandas|
+[Atividade 9](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_dados/atividade_9.py "Atividade 9") | 30/06 | Não | Utilizado a biblioteca Pandas| 
+[Atividade 10](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_dados/atividade_10.py "Atividade 10") | 30/06 | Não | Utilizado a biblioteca Pandas | 
+[Atividade 11](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_dados/atividade_11.py "Atividade 11") | 30/06 | Não | Utilizado a biblioteca Pandas | 
+[Atividade 12](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_dados/atividade_12.py "Atividade 12") | 30/06 | Não | Utilizado a biblioteca Pandas |
+[Atividade 13](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_dados/atividade_13.py "Atividade 13") | 30/06 | Não | Utilizado a biblioteca Pandas.<br> Criado uma nova coluna e concatenando com as informações de Movie e Year|
+[Atividade 14](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_dados/atividade_14.py "Atividade 14") | 30/06 | Não | Utilizado a biblioteca Pandas |
+[Atividade 15](https://github.com/backespucpr/Compass_NeyBackes_Robot/blob/DEVELOP/python_exercicios_dados/atividade_15.py "Atividade 15") | 01/06 | Não | Utilizado a biblioteca Pandas|
+[Desafio CSV](https://github.com/backespucpr/Compass_NeyBackes_Robot/tree/DEVELOP/python_exercicios_dados/aplicacao_desafio "Aplicação Desafio") | 01/06 | Sim | [Como encontrar o índice de valor no dataframe do Pandas](https://devenum.com/how-to-find-index-of-value-in-pandas-dataframe/#:~:text=To%20find%20the%20indexes%20of,Math'%20in%20the%20Subject%20column. "Ajuda") |
+
 
 </td></tr> </table>
  
@@ -115,8 +125,8 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 |Ferramenta | Versão     | Instalação                                                    |
 | -------- | ---------- | ------------------------------------------------------------ |
-| Python | 3.10 | - <a href="https://www.python.org/downloads/" target="_blank"> Download Windows</a><br /> - Para a instalação baixe a versão correspondente e siga as intruções de instalação.<br /> <strong>Instalação Linux via terminal</strong>. <br /> - Verifique se você tem o python instalado: "which python" ou "which python3" <br /> - Instalação: sudo apt-get install python3 <br />  |
-|Git   | 2.34,1 | - Acesse a documentação oficial <br /> <a href="https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git" target="_blank">- Guia de instalaçao</a>  <br /> |
+| Python | 3.10 |  <a href="https://www.python.org/downloads/" target="_blank">- Download Windows</a><br /> - Para a instalação baixe a versão correspondente e siga as intruções de instalação.<br /> <strong>Instalação Linux via terminal</strong>. <br /> - Verifique se você tem o python instalado: "which python" ou "which python3" <br /> - Instalação: sudo apt-get install python3 <br />  |
+|Git   | 2.34.1 | - Acesse a documentação oficial <br /> <a href="https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git" target="_blank">- Guia de instalaçao</a>  <br /> |
 |Vscode | 1.68.1 |  <br /> <a href="https://code.visualstudio.com/Download" target="_blank">- Download Windows</a><br /> - Para a instalação baixe a versão correspondente e siga as intruções de instalação.<br /><strong>Instalação Linux via terminal</strong> <br />- Instalação: "sudo snap install code --classic"<br /> - Não se esqueca de atualizar: "sudo snap refresh code"|
 
 ## Exercicio Exemplo
@@ -144,6 +154,12 @@ print(media(nota1, nota2));
 
 <div> 
    <img src="https://user-images.githubusercontent.com/105370199/176015901-0d16890e-7dcb-416a-899d-87e4f6ff6e67.gif" width="200px" />
+</div>
+
+
+### Execução via terminal (exemplo)
+<div> 
+   <img src="https://user-images.githubusercontent.com/105370199/176916968-96c8e862-77bf-413a-8c06-e0b9022ecd07.png" width="800px" />
 </div>
 
 ## Instalando as dependências necessárias via PIP:
@@ -189,18 +205,10 @@ print(media(nota1, nota2));
 
 Biblioteca | Versão | Utilização |
 ---- | ---- | ---- |
- dependencia| versão | Pandas é uma biblioteca para uso em Python, open-source e de uso gratuito (sob uma licença BSD),<br> que fornece ferramentas para análise e manipulação de dados. |
- <dependencia>| versão | Não |
- <dependencia>| versão | Não |
- <dependencia>| versão | Não |
- <dependencia>| versão | Não |
- <dependencia>| versão | Não |
- <dependencia>| versão | Não |
- <dependencia>| versão | Não |
- <dependencia>| versão | Não |
- <dependencia>| versão | Não |
- <dependencia>| versão | Não | 
- <dependencia>| versão | Não |
+ Pandas| 1.4.3 | Pandas é uma biblioteca para uso em Python, open-source e de uso gratuito (sob uma licença BSD),<br> que fornece ferramentas para análise e manipulação de dados. |
+ Pprint| 8.11 | Pprint é uma blblioteca utilizada para melhorar a identação dados e emebeleza a impressão das informações |
+ Json| 3.6 | Json é uma biblioteca utilizada para trabalhar com arquivos json |
+
 
 </td></tr> </table>
 
@@ -208,6 +216,13 @@ Biblioteca | Versão | Utilização |
 
 Para realizar as atividades deste repositório foram utilizados como fonte de pesquisa vários canais de conteúdo, além de repositórios no próprio Github que me ajudaram a documentar este projeto. Portanto, esse espaço esta a agradecer o aprendizado e divulgar estes canais a outras pessoas que queiram aprender.
 
+<strong>Colegas que ajudaram na resolução das atividades e na elaboração deste projeto</strong>
+<div>   
+   <a href="https://github.com/abressam" target="_blank">- Amanda Bressam </a><br>
+   <a href="https://github.com/manuel-valdes" target="_blank">-Manuel Valdes </a><br>
+   
+</div>
+<br>
 
 <strong>Elaboração do README.md</strong>
 <div>   

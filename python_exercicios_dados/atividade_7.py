@@ -1,5 +1,4 @@
- #Faça com que o programa printe apenas os primeiros dados dentro de
- #edicao_atual, fase_atual, rodada_atual usando o JSON 2
+ #Percorra o JSON 2, utilizando o loop FOR e printe suas chaves principais.
 
 #importando a biblioteca json
 import json
